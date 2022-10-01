@@ -1,0 +1,62 @@
+[{
+        "_id": {
+            "$oid": "62e4c8c78da8261f0a749d2d"
+        },
+        "ProductName": "Full Set of Nick",
+        "Category": "Nendoroid",
+        "Introduction": "<p>From the popular anime series 'Hikaru no Go' comes a Nendoroid of the main character Hikaru Shindo! He comes with three face plates including a standard expression, a smiling expression and an annoyed expression.</p>",
+        "Description": "<p>Optional parts include a Go stone attached to a hand part, a Go board and a floor cushion. A Milight 316B (released by Hiromi Sangyo) can be installed in the Go board part to recreate the Divine Move! Be sure to add him to you collection along with Nendoroid Fujiwara no Sai (sold separately)!</p>",
+        "OriginalPrice": 186.00,
+        "Price": 145.00,
+        "Rating": 4,
+        "Color": [
+            "yellow",
+            "blue"
+        ],
+        "Image": "product-011-A.webp",
+        "Images": [
+            "product-011-A.webp",
+            "product-011-B.webp",
+            "product-011-C.webp"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "d63338479d00526437c9c730"
+        },
+        "ProductName": "Ghost Baby",
+        "Category": "PVC Figure",
+        "Introduction": "<p>Strawberry gelatin and strawberries liven up each pretty slice of this lovely layered cake that’s made from a convenient boxed mix</p>",
+        "Description": "<p>Fresh strawberries are sweet any time of year. Think about it: You can serve up a big bowl of the sweet berries with whipped cream after your Mother's Day brunch or dip them in chocolate for a romantic Valentine's Day treat. No matter what the occasion, you can't go wrong with these strawberry desserts. Here, you'll find tons of recipes for strawberry cakes, classic pies, trifle recipes, and even some no-bake desserts that will make entertaining easy.</p>",
+        "OriginalPrice": 110.00,
+        "Price": 93.00,
+        "Rating": 4,
+        "Color": [
+            ""
+        ],
+        "Image": "product-012-A.webp",
+        "Images": [
+            "product-012-A.webp",
+            "product-012-B.webp",
+            "product-012-C.webp"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6fd6c47e8232e24e7d8df920"
+        },
+        "ProductName": "Nick Nendoroid",
+        "Category": "Nendoroid",
+        "Introduction": "<p>Bake a stunning lemon sponge cake, a creamy citrus cheesecake or a zesty sorbet with our best-ever lemon dessert recipes, perfect for entertaining.</p>",
+        "Description": "<p>A friend and I often visit a local restaurant for lemon desserts and coffee. When they stopped carrying our favorite lemon supreme pie, I got busy in the kitchen and created this version, which we think tastes even better! The combination of the cream cheese and tart lemon is wonderful. —Jana Beckman, Wamego, Kansas.</p>",
+        "OriginalPrice": 134.00,
+        "Price": 128.00,
+        "Rating": 3,
+        "Image": "product-013-A.webp",
+        "Images": [
+            "product-013-A.webp",
+            "product-013-B.webp",
+            "product-013-C.webp"
+        ]
+    }
+]
